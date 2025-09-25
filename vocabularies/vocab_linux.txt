@@ -1,0 +1,8 @@
+linux, kernel, shell, bash, zsh, terminal, commande, sudo, root,
+chmod, chown, ls, cd, mkdir, rm, cp, mv, grep, awk, sed, pipe,
+processus, thread, systemd, init, service, daemon, package, apt-get,
+yum, dnf, pacman, snap, flatpak, distribution, ubuntu, debian, fedora,
+arch, redhat, suse, man, config, log, syslog, journalctl, ssh, scp,
+ftp, mount, umount, partition, disque, ext4, btrfs, swap, firewall,
+iptables, nftables, réseau, dns, dhcp, ping, traceroute, ifconfig,
+ip, route, hostname, localhost, cron, crontab, script, makefile

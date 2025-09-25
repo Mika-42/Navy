@@ -1,0 +1,9 @@
+mathématiques, algèbre, géométrie, analyse, probabilité, statistique,
+arithmétique, équation, inéquation, fonction, dérivée, intégrale,
+limite, suite, série, convergence, divergence, matrice, vecteur,
+scalaire, produit scalaire, produit vectoriel, déterminant, polynôme,
+racine, logarithme, exponentielle, sinus, cosinus, tangente,
+théorème, axiome, lemme, corollaire, démonstration, conjecture,
+géométrie euclidienne, géométrie analytique, géométrie différentielle,
+topologie, combinatoire, graphes, algorithme, complexité, optimisation,
+probabilité, loi normale, loi binomiale, espérance, variance, écart-type

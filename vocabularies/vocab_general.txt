@@ -1,0 +1,11 @@
+bonjour, salut, merci, s'il vous plaît, excusez-moi, au revoir, à bientôt,
+oui, non, peut-être, d'accord, bien, mal, très bien, pas mal, comme ci comme ça,
+aujourd'hui, demain, hier, matin, après-midi, soir, nuit, semaine, mois, année,
+maison, appartement, chambre, cuisine, salon, salle de bain, bureau, école, travail,
+ordinateur, téléphone, internet, email, message, appel, vidéo, musique, film,
+manger, boire, dormir, marcher, courir, parler, écouter, lire, écrire, apprendre,
+ami, famille, collègue, voisin, enfant, parent, frère, sœur, mari, femme,
+ville, village, rue, route, voiture, bus, train, avion, vélo, métro,
+argent, prix, euro, banque, magasin, marché, acheter, vendre, payer,
+beau, grand, petit, chaud, froid, rapide, lent, facile, difficile, important,
+heureux, triste, fatigué, content, inquiet, calme, en colère, surpris, motivé

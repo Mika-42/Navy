@@ -1,0 +1,9 @@
+programmation, code, algorithme, variable, constante, fonction, méthode,
+classe, objet, héritage, polymorphisme, interface, module, bibliothèque,
+package, import, export, compilation, interprétation, exécution,
+python, java, c, c++, c#, javascript, typescript, go, rust, php,
+html, css, sql, base de données, requête, api, rest, graphql,
+json, xml, yaml, boucle, condition, if, else, switch, for, while,
+try, catch, exception, erreur, bug, debug, test, unittest, pytest,
+framework, django, flask, spring, react, angular, vue, node, npm,
+git, commit, push, pull, merge, branch, repository, version, ide
